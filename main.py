@@ -39,3 +39,4 @@ if __name__=="__main__":
                     draw_block()
             elif event.type==QUIT:
                 running=False
+            
