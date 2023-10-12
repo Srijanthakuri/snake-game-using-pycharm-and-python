@@ -86,7 +86,7 @@ class game():
                 elif event.type==QUIT:
                     running=False
             self.play()
-            time.sleep(0.3)    
+            time.sleep(0.5)    
     
 
 
